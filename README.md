@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/zemirco/follow.svg)](https://travis-ci.org/zemirco/follow)
 [![GoDoc](https://godoc.org/github.com/zemirco/follow?status.svg)](https://godoc.org/github.com/zemirco/follow)
 
-Go client CouchDB [_changes](http://docs.couchdb.org/en/latest/api/database/changes.html) API.
+Go client for CouchDB [_changes](http://docs.couchdb.org/en/latest/api/database/changes.html) API.
 
 ## Example
 
